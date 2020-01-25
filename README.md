@@ -5,5 +5,5 @@ Uses Bcryptjs to validate passwords.
 
 Tech Stack:
 Front-end : EJS, bootstrap
-Back-end : Node.js, express
+Back-end : Node.js, express, MongoDB
 
