@@ -13,6 +13,6 @@ Back-end : Node.js, express, MongoDB
 
 Demo:
 
-![Authorization-Template](demo.gif)
+![Authorization-Template](Demo.gif)
 
 
